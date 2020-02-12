@@ -1,0 +1,11 @@
+__pycache__
+.vscode
+browser
+build
+dist
+node_modules
+selenium
+csv.js
+package-lock.json
+sentences_CC0.csv
+presearch.spec
